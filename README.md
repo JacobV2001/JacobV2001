@@ -19,7 +19,9 @@ I’m a **Data Analyst**, **Machine Learning Engineer**, and **AI Engineer** in 
 Here are some of my projects showcasing my work in **Data Analysis**, **Machine Learning**, and **AI**:
 - [Endgame Image Classifier](https://github.com/JacobV2001/Avengers-EndGame-Image-Classification) - A machine learning project that classifies images of people based on facial features and compares them to characters from *Avengers: Endgame*. The model uses Support Vector Machines (SVM) and facial feature extraction techniques to determine which character an individual resembles the most.
 
-Feel free to explore more of Machine Learning projects on my [Machine Learning Projects](https://github.com/JacobV2001/ML-Portfolio-Guide).
+Feel free to explore more and find projects here
+  - [Data Analytics Projects](https://github.com/JacobV2001/DA-Portfolio-Guide).
+  - [Machine Learning Projects](https://github.com/JacobV2001/ML-Portfolio-Guide).
 
 ## 🎓 Education & Certifications
 - **Computer Science Degree** from **Fresno State University**
