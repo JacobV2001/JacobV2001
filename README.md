@@ -18,6 +18,7 @@ I’m a **Data Analyst**, **Machine Learning Engineer**, and **AI Engineer** in 
 ## 📚 Projects
 Here are some of my projects showcasing my work in **Data Analysis**, **Machine Learning**, and **AI**:
 - [Endgame Image Classifier](https://github.com/JacobV2001/Avengers-EndGame-Image-Classification) - A machine learning project that classifies images of people based on facial features and compares them to characters from *Avengers: Endgame*. The model uses Support Vector Machines (SVM) and facial feature extraction techniques to determine which character an individual resembles the most.
+- [Biology-Inspired Sudoku Solver](https://github.com/JacobV2001/Artificial-Intelligence-Projects/tree/main/Sudoku_Solver) – A project that applies three biology-inspired machine learning algorithms—Backtracking, Hill Climbing, and Simulated Annealing—to solve Sudoku puzzles. The algorithms are compared based on their solving success rate and execution time, providing insights into their effectiveness for constraint satisfaction problems.
 
 Feel free to explore more and find projects here
   - [Data Analytics Projects](https://github.com/JacobV2001/DA-Portfolio-Guide).
