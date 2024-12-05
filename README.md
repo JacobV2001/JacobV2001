@@ -25,8 +25,10 @@ Feel free to explore more and find projects here
   - [Machine Learning Projects](https://github.com/JacobV2001/ML-Portfolio-Guide).
 
 ## 🎓 Education & Certifications
-- **Computer Science Degree** from **Fresno State University**
-- **Data Analyst Certificate** from **Codecademy** – [View Certificate](https://www.codecademy.com/profiles/JacobVillegas/certificates/7dec503730a448c8b22bb251ada403f3)
+- **🎓 Computer Science Degree** from **Fresno State University**  
+- **📊 Machine Learning Certificate** from **Codecademy** – [View Certificate](https://www.codecademy.com/profiles/JacobVillegas/certificates/8e9e59de3f924b33ad2371faf667129b)  
+- **💻 Data Analyst Certificate** from **Codecademy** – [View Certificate](https://www.codecademy.com/profiles/JacobVillegas/certificates/7dec503730a448c8b22bb251ada403f3)
+
 
 ## 👋 Let's Connect
 - **LinkedIn:** [Jacob Villegas](https://www.linkedin.com/in/jacob-villegas-9543402ba/)
