@@ -21,8 +21,8 @@ Here are some of my projects showcasing my work in **Data Analysis**, **Machine 
 - [Biology-Inspired Sudoku Solver](https://github.com/JacobV2001/Artificial-Intelligence-Projects/tree/main/Sudoku_Solver) – A project that applies three biology-inspired machine learning algorithms—Backtracking, Hill Climbing, and Simulated Annealing—to solve Sudoku puzzles. The algorithms are compared based on their solving success rate and execution time, providing insights into their effectiveness for constraint satisfaction problems.
 
 Feel free to explore more and find projects here
-  - [Data Analytics Projects](https://github.com/JacobV2001/DA-Portfolio-Guide).
-  - [Machine Learning Projects](https://github.com/JacobV2001/ML-Portfolio-Guide).
+  - [Data Analytics Portfolio](https://github.com/JacobV2001/DA-Portfolio-Guide).
+  - [Machine Learning Portfolio](https://github.com/JacobV2001/ML-Portfolio-Guide).
 
 ## 🎓 Education & Certifications
 - **🎓 Computer Science Degree** from **Fresno State University**  
